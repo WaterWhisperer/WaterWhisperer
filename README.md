@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m [@WaterWhisperer](https://github.com/WaterWhisperer), welcome to my github.
-### :link: Here is [WaterWhisperer's Blog](https://WaterWhisperer.github.io). 
+### 🦀 I'm a Rustacean.
+### 🔗 Here is [WaterWhisperer's Blog](https://WaterWhisperer.github.io). 
 
 <!---
 WaterWhisperer/WaterWhisperer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
