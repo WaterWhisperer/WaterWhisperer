@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m [@WaterWhisperer](https://github.com/WaterWhisperer), welcome to my github.
-### 🦀 I am a Rustacean, who also interested in Go, Zig, OCaml, and Haskell.
+### 🦀 I am a Rustacean, who also interested in Go, Haskell, OCaml, and Zig.
 ### 🔗 Here is [WaterWhisperer's Blog](https://WaterWhisperer.github.io). 
 
 <!---
