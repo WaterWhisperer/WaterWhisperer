@@ -1,5 +1,9 @@
 ### 👋 Hi, I’m [@WaterWhisperer](https://github.com/WaterWhisperer), welcome to my github.
+
 ### 🦀 I am a Rustacean, who also interested in Go, Haskell, OCaml.
+
+### 🐧 Currently interning at Tencent WXG.
+
 ### 🔗 Here is [WaterWhisperer's Blog](https://WaterWhisperer.github.io). 
 
 <!---
