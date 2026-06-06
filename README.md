@@ -2,7 +2,7 @@
 
 ### 🦀 I am a Rustacean, who also interested in Go, Haskell, OCaml.
 
-### 🐧 Currently interning at Tencent WXG.
+### 🐧 Currently interning at Tencent.
 
 ### 🔗 Here is [WaterWhisperer's Blog](https://WaterWhisperer.github.io). 
 
